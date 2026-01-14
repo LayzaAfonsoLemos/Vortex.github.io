@@ -1,0 +1,6 @@
+__turbopack_load_page_chunks__("/planos", [
+  "static/chunks/22b1f3d0c3974805.js",
+  "static/chunks/d5b989fc90d46512.js",
+  "static/chunks/0ef7e604346a2033.js",
+  "static/chunks/turbopack-29cda1d3c7425f65.js"
+])
