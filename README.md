@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vortex E-commerce Site
 
 Welcome to the Vortex E-commerce Site project! This project is designed to provide a seamless experience for users looking to create and manage their own websites through our subscription plans.
@@ -59,3 +60,6 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# Vortex.github.io
+>>>>>>> ec80019e910e35edb98e51e72616cbd62eaa0bc0
