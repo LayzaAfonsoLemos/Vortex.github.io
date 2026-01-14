@@ -293,7 +293,7 @@
     "turbopack": {
       "root": "C:\\Users\\layza\\Desktop\\Vortex\\vortex-ecommerce-site"
     },
-    "distDirRoot": ".next"
+    "distDirRoot": "docs"
   },
   "appDir": "C:\\Users\\layza\\Desktop\\Vortex\\vortex-ecommerce-site",
   "relativeAppDir": "",
